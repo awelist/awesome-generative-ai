@@ -40,6 +40,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Bard](https://bard.google.com/)** – Google’s conversational generative AI model.
 - **[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)** – Meta’s open large language model.
 - **[Mistral](https://mistral.ai/news/)** – Lightweight open-source LLMs optimized for performance and scale.
+- **[RawMind AI](https://rawmind.app)** – Free, uncensored generative AI platform supporting conversational reasoning, image generation, and video creation.
 
 ## Image Generation
 
